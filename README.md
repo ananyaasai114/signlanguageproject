@@ -1,4 +1,8 @@
-# team-name
+# CMRIT-ashes
+
+1. Ananya A Sai
+2. Adam Nabeel
+
 # Real-Time Voice to Sign Language
 
 This project converts spoken words into sign language videos in real-time, using a web-based interface. The app listens to a user's speech, transcribes it into text, and displays a corresponding sign language video for recognized phrases.
@@ -19,3 +23,4 @@ This project converts spoken words into sign language videos in real-time, using
    git clone https://github.com/yourusername/real-time-voice-to-sign-language.git
    cd real-time-voice-to-sign-language
    ```
+2. unzip the compressed folder and move the video files to the repository.
