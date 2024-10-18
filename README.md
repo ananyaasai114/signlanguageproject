@@ -23,4 +23,3 @@ This project converts spoken words into sign language videos in real-time, using
    git clone https://github.com/yourusername/real-time-voice-to-sign-language.git
    cd real-time-voice-to-sign-language
    ```
-2. unzip the compressed folder and move the video files to the repository.
